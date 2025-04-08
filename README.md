@@ -1,6 +1,6 @@
 - I built a visual novel using Ren'Py
 - I used Python as the language, the Ren'Py engine as the game engine, and Claude AI to code the game. I also used magicstudio.com to generate some images. I used remove.bg, pixlr.com, and photopea.com to edit images. 
 - I used Claude AI to code the game. I also used AI editing features on remove.bg and pixlr to help me remove backgrounds from images.
-- I created the game project on Ren'Py and implemented the code that Claude AI wrote for me. I had to change some things in the file to make certain images work. I also added the images that I got from the internet myself. AI removed the backgrounds from images that I needed to make them work for the game and it also generated a few images for me.
+- I created the game project on Ren'Py and implemented the code that Claude AI wrote for me based on the prompt that I gave it, in which I specified the idea for the game and some things to include in it. I had to change some things in the file to make certain images work. I also added the images that I got from the internet myself. AI removed the backgrounds from images that I needed to make them work for the game and it also generated a few images for me.
 - I'm proud of the unique idea that I was able to come up with for this game.
 - I would resize some images because some of them are small and I'd add more locations.
